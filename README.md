@@ -4,7 +4,7 @@
 
 This repo houses the assets used to build the Kubernetes Community Days (KCD) site at https://kubernetescommunitydays.org.
 
-If you're interested in organizing your own KCD event, visit the [Organizing](https://kubernetescommunitydays.org/organizing) page of the site for requirements and instructions.
+If you're interested in organizing your own KCD event, visit the [Organizing](https://kubernetescommunitydays.org/organizing) page of the site for requirements & instructions.
 
 ## Running the site locally
 
